@@ -1,2 +1,2 @@
 # repo-exercise
-Excercice for praticing githib
+Excercice for praticing github
